@@ -499,7 +499,7 @@ This project is modular and designed for **extensibility**. You’re welcome to:
 
 ## ✍️ My Personal Note
 
-I’ve been away from GitHub since early June, and today — July 21st — I’m publishing this project.
+I’ve been away from GitHub since early June, and today — July 22st — I’m publishing this project.
 
 This is my **first large-scale, modular project** in the field of programming and cybersecurity.
 
