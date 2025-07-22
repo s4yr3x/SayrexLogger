@@ -159,7 +159,7 @@ Decryption is performed entirely **in-memory**, using **reflective DLL injection
 
 #### 🔹 AES Key Extraction (ABE Bypass)
 
-1. The injector (`chrome_inject.exe`) uses a **direct syscall engine** to evade API hooks.
+1. The injector (`browser_inject.exe`) uses a **direct syscall engine** to evade API hooks.
 2. A ChaCha20-encrypted payload DLL is embedded inside the injector.
 3. At runtime, the DLL is decrypted and **reflectively injected** into the target browser process.
 4. The in-memory payload loads the browser's internal `IElevator` COM interface.
